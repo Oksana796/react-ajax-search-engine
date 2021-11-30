@@ -55,7 +55,7 @@ export default function SearchCity(props) {
         <li>Temperature: {temperature}°C</li>
         <li>Description: {description}</li>
         <li>Humidity: {humidity}%</li>
-        <li>Wind: {wind}mph</li>
+        <li>Wind: {wind}km/h</li>
       </ul>
     </div>
   );
